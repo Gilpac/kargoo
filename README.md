@@ -1,54 +1,12 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/techx)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/techx?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/techx?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6snv-yu2_c4?style=social)](https://youtu.be/6snv-yu2_c4)
+# Modern Login Page
+In this tutorial ([Open in Youtube](https://youtu.be/PlpM2LJWu-s)), I'm going to show you how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations. We'll be using CSS Flexbox, CSS  transition for some cool animation effects and also CSS keyframes!
 
-  <br />
-  <br />
+# Screenshot
+Here we have project screenshot :
 
-  <h2 align="center">Techx - Landing page website</h2>
+![screenshot](screenshot.jpg)
 
-  Techx is a fully responsive landing page website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+# AsmrProg
 
-  <a href="https://codewithsadee.github.io/techx/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Techx Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Techx** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/techx.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/techx.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+We create a project each 4 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
+You can vote for upcoming projects on our channel **community** page :wink:
